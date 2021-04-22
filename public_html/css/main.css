@@ -1,5 +1,26 @@
 body{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     background-color: rgb(0, 0, 0);
+
+}
+a{
+    font-size: 30px;
+    color: rgb(37, 136, 194);
+
+}
+
+h1{
+    font-size: 60px;
+    color: white;
+}
+
+h5{
+    font-size: 40px;
+    color: rgb(214, 161, 3);
+}
+
+p{
+    font-size: 20px;
+    color: rgb(214, 161, 3);
 }
 
